@@ -1,2 +1,4 @@
 # Kelompok-3
+Pojok Smart Class (PSC) Coffee
+
 RAFI RAMADHAN - ADRYAN MAULANA - ANISA MAHIRA - NURUL HUSNA
