@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="PSC Coffee - SIKAP">
+<img src="assets/banner.png" width="100%" alt="PSC Coffee - SIKAP">
 
 <br>
 
@@ -30,6 +30,7 @@ Selain sistem kasir, project ini juga mencakup **Digital Twin PSC Coffee** untuk
 
 ## 🎯 Tujuan Project
 
+
 Project ini bertujuan untuk:
 
 * Meningkatkan efisiensi proses transaksi.
@@ -37,6 +38,11 @@ Project ini bertujuan untuk:
 * Mengurangi kesalahan dalam pencatatan penjualan.
 * Menyediakan laporan transaksi.
 * Menyediakan representasi digital operasional melalui Digital Twin.
+
+---
+## 📋 WORK BREAKDOWN STRUCTURE
+
+https://app.notion.com/p/SISTEM-KASIR-PSC-COFFEE-c44ac5be9aec836d809f01581fd9a8c9?source=copy_link
 
 ---
 
@@ -225,6 +231,7 @@ Dokumentasi project dapat ditemukan pada folder:
 ```text
 docs/
 ```
+
 
 ---
 
